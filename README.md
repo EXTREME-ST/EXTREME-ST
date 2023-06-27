@@ -6,14 +6,6 @@
 
 > 一个除了摸鱼啥都不会的普通人。
 
-![zh_CN](https://img.shields.io/badge/zh__CN-9cf?style=flat-square&logo=read-the-docs&logoColor=black&labelColor=9cf)
-![en_US](https://img.shields.io/badge/en__US-9cf?logo=&logoColor=white&style=flat-square)
-
-[![Twitter](https://img.shields.io/twitter/follow/Alex32768?color=1ca0f1&label=%40Alex32768&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/Alex32768)
-[![Sina Weibo](https://img.shields.io/badge/-@EXTREME-ST-e6162d?style=flat-square&logo=sina-weibo&logoColor=white&labelColor=e6162d)](https://weibo.com/EXTREME-ST)
 [![BiliBili](https://img.shields.io/badge/-EXTREME-ST-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/497981273)
-[![Steam](https://img.shields.io/badge/-EXTREME-ST-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/EXTREME-ST)
-[![Steam](https://img.shields.io/badge/-EXTREME-ST-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/EXTREME-ST)
-[![Telegram Channel](https://img.shields.io/badge/-t.me/EXTREME-ST-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/EXTREME-ST)
-[![E-Mail](https://img.shields.io/badge/-awa@extremest.top-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:awa@extremest.top)
+[![E-Mail](https://img.shields.io/badge/-extremest.top/zh-cn-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](extremest.top/zh-cn)
 
