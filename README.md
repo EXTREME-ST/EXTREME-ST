@@ -10,10 +10,10 @@
 ![en_US](https://img.shields.io/badge/en__US-9cf?logo=&logoColor=white&style=flat-square)
 
 [![Twitter](https://img.shields.io/twitter/follow/Alex32768?color=1ca0f1&label=%40Alex32768&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/Alex32768)
-[![Sina Weibo](https://img.shields.io/badge/-@Alex3230-e6162d?style=flat-square&logo=sina-weibo&logoColor=white&labelColor=e6162d)](https://weibo.com/alex3236)
-[![BiliBili](https://img.shields.io/badge/-Alex3236-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/275212628)
-[![Steam](https://img.shields.io/badge/-alex3236-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/alex3236)
-[![Steam](https://img.shields.io/badge/-alex3236__-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/alex3236_)
-[![Telegram Channel](https://img.shields.io/badge/-t.me/alex_3236-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/alex_3236)
-[![E-Mail](https://img.shields.io/badge/-awa@alex3236.top-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:awa@alex3236.top)
+[![Sina Weibo](https://img.shields.io/badge/-@EXTREME-ST-e6162d?style=flat-square&logo=sina-weibo&logoColor=white&labelColor=e6162d)](https://weibo.com/EXTREME-ST)
+[![BiliBili](https://img.shields.io/badge/-EXTREME-ST-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/497981273)
+[![Steam](https://img.shields.io/badge/-EXTREME-ST-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/EXTREME-ST)
+[![Steam](https://img.shields.io/badge/-EXTREME-ST-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/EXTREME-ST)
+[![Telegram Channel](https://img.shields.io/badge/-t.me/EXTREME-ST-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/EXTREME-ST)
+[![E-Mail](https://img.shields.io/badge/-awa@extremest.top-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:awa@extremest.top)
 
